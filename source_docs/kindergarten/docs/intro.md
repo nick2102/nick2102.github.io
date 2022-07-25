@@ -4,46 +4,49 @@ slug: /
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Instructions for installing and running the project.
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Node.js](https://nodejs.org/en/download/) version 16.16 or above
+- [postgresSQL](https://www.postgresql.org/download/) database server (Follow official instructions for installation)
+- [pgAdmin](https://www.pgadmin.org/download/) postgres db Client (Follow official instructions for installation)
+- [Postman](https://www.postman.com/) or some other API Client
 
-## Generate a new site
+## Installation
 
-Generate a new Docusaurus site using the **classic template**.
+Clone the project to your projects directory:
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
+```bash title="via SSH"
+git clone git@github.com:nick2102/kindergarten-track-backend.git
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
+```bash title="via HTTPS"
+git clone https://github.com/nick2102/kindergarten-track-backend.git
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+In the root directory run :
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+```bash
+npm install
+```
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+To start the server in you terminal run :
+
+```bash
+npm run serve
+```
+
+While the server is running in postman run the migrate route to create the database tables
+
+```bash title="src\controllers\Migration\Migration.controller.ts"
+{baseUrl}/migrate/up
+```
+
+```json title="Body: "
+{
+  "run": "go"
+}
+```

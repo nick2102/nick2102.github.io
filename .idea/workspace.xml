@@ -2,107 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21000ced-3626-47b3-a98b-51fa8b5a337c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/signup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/.nojekyll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/css/styles.29d8c845.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/images/docsVersionDropdown-35e13cbe46c9923327f30a76a90bff3b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/images/localeDropdown-f0d995e751e7656a1b0dbbc1134e49c2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/01a85c17.603206e9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/031793e1.aa53c474.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/096bfee4.922c8bec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/0e384e19.77d781f7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/14eb3368.863740e6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/17896441.f007afae.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/18c41134.5d895afd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/1be78505.7a398fd5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/1e4232ab.b665ea14.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/1f391b9e.c643fdfe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/2529.006f3060.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/30a24c52.87d03804.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/393be207.9acb629e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/402e1ad2.f00c4ef1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/4972.8c2cbc06.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/4c9e35b1.c1d24417.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/533a09ca.d5360be0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/59362658.dee753ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/5c868d36.a1b47da8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/608ae6a4.b321d77c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/66406991.f03fa187.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/6875c492.9d052280.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/73664a40.f375b068.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/7654.c1955739.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/7661071f.cd5a5cc1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/814f3328.6379f805.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/822bd8ab.f03c0ebb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/8717b14a.f13aa8d8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/925b3f96.123b306f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/935f2afb.bd0d0ff3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/9d1f1fcf.4fc90b6d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/9e4087bc.529f6a11.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/a6aa9e1f.f011d378.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/a7023ddc.03df9c38.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/a80da1cf.3075f707.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/b2b675dd.9578e490.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/b2f554cd.753703ea.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/b36f548a.5a22e576.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/c4f5d8e4.25573ead.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/c844b82d.3cb37e7a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/ccc49370.32e538af.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/d9f32620.336bfe9a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/dff1c289.fa89a4e7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/e16015ca.ad90aee4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/e273c56f.321e548a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/e44a2883.2494877e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/ea88f2a1.0563bdeb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/f4f34a3a.8ef40f2f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/f55d3e7a.397c141c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/main.3b08eb9f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/main.3b08eb9f.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/assets/js/runtime~main.8030a937.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/archive/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/atom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/first-blog-post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/long-blog-post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/mdx-blog-post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/rss.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/tags/docusaurus/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/tags/facebook/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/tags/hello/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/tags/hola/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/tags/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/blog/welcome/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/category/tutorial---basics/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/category/tutorial---extras/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/intro/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/tutorial-basics/congratulations/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/tutorial-basics/create-a-blog-post/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/tutorial-basics/create-a-document/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/tutorial-basics/create-a-page/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/tutorial-basics/deploy-your-site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/tutorial-basics/markdown-features/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/tutorial-extras/manage-docs-versions/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/docs/tutorial-extras/translate-your-site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/img/docusaurus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/img/undraw_docusaurus_mountain.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/img/undraw_docusaurus_react.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/img/undraw_docusaurus_tree.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/markdown-page/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kindergarten/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/blog/2019-05-28-first-blog-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/blog/2019-05-29-long-blog-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/blog/2021-08-01-mdx-blog-post.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/blog/2021-08-26-welcome/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/blog/authors.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docusaurus.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/src/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/_category_.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/congratulations.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/congratulations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/create-a-blog-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/create-a-document.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-in.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/create-a-page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/deploy-your-site.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out-all.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/markdown-features.mdx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +45,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikac\Projects\nick2102.github.io\source_docs\kindergarten\docs\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -144,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658754898293</updated>
       <workItem from="1658754899477" duration="39000" />
-      <workItem from="1658754945767" duration="3880000" />
+      <workItem from="1658754945767" duration="9134000" />
     </task>
     <servers />
   </component>
