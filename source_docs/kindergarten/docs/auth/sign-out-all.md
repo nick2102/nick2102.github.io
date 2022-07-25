@@ -2,9 +2,11 @@
 sidebar_position: 4
 ---
 
-# Sign Out
+# Sign Out All
 
 This is resource for signing out from all devices
+
+User must be **authenticated** for this action
 
 `User: src\entities\User\User.entity.ts`
 

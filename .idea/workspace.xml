@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21000ced-3626-47b3-a98b-51fa8b5a337c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/signup.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/_category_.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/congratulations.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/congratulations.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/create-a-blog-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/create-a-document.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-in.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/create-a-page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/deploy-your-site.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out-all.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/tutorial-basics/markdown-features.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out-all.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out-all.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658754898293</updated>
       <workItem from="1658754899477" duration="39000" />
-      <workItem from="1658754945767" duration="9134000" />
+      <workItem from="1658754945767" duration="9745000" />
     </task>
     <servers />
   </component>

@@ -6,6 +6,8 @@ sidebar_position: 3
 
 This is resource for signing out of the application.
 
+User must be **authenticated** for this action
+
 `User: src\entities\User\User.entity.ts`
 
 `Controller: src\controllers\Auth\Auth.controller.ts`
