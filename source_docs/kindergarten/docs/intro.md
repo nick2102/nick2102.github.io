@@ -39,8 +39,15 @@ To start the server in you terminal run :
 npm run serve
 ```
 
-While the server is running in postman run the migrate route to create the database tables
+**Create new database in via pgAdmin**
 
+While the server is up, run a migration command in the terminal:
+
+```bash
+npm run migration:up
+```
+
+Optionally you can run the migration by calling the request in postman
 ```bash title="src\controllers\Migration\Migration.controller.ts"
 {baseUrl}/migrate/up
 ```
@@ -49,4 +56,14 @@ While the server is running in postman run the migrate route to create the datab
 {
   "run": "go"
 }
+```
+
+Additional migration commands:
+
+```bash title="for creating new migration files"
+npm run migration:generate --name=nameOfMigration
+```
+
+```bash title="for rolling back the last migration"
+npm run migration:down
 ```
