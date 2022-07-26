@@ -29,19 +29,24 @@ This is resource for registering two types of users Employees and End users.
 
 ```json
 {
-    "email" : "user@gmail.com",
-    "password": "Pa$$w0rd",
-    "role": "EMPLOYEE"
+  "email" : "user@gmail.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "password": "Pa$$w0rd",
+  "role": "EMPLOYEE"
 }
 ```
 
 ### Response
 ```json
 {
-    "email": "user@gmail.com",
-    "role": "EMPLOYEE",
-    "id": 5,
-    "createdAt": "2022-07-25T20:26:44.006Z",
-    "updatedAt": "2022-07-25T20:26:44.006Z"
+  "email": "user@gmail.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "role": "EMPLOYEE",
+  "verificationToken": null,
+  "id": 15,
+  "createdAt": "2022-07-26T22:32:16.180Z",
+  "updatedAt": "2022-07-26T22:32:16.180Z"
 }
 ```
