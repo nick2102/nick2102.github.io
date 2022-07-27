@@ -19,6 +19,8 @@ User must be **authenticated** for this action
 
 `POST` `{{url}}/auth/signoutAll`
 
+**Bearer token is required**
+
 ### Accepted Params:
 
 `NONE`
