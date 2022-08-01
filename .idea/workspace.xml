@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21000ced-3626-47b3-a98b-51fa8b5a337c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/change-password.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/forgot-password.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/user/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/user/delete-account.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/user/edit-account.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/user/edit-profile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/user/profile.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out-all.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out-all.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/sign-out.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nikac/Projects/nick2102.github.io/source_docs/kindergarten/docs/auth",
+    "last_opened_file_path": "C:/Users/Nikac/Projects/nick2102.github.io/source_docs/kindergarten/docs/user",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -41,6 +45,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikac\Projects\nick2102.github.io\source_docs\kindergarten\docs\user" />
       <recent name="C:\Users\Nikac\Projects\nick2102.github.io\source_docs\kindergarten\docs\auth" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -59,7 +64,9 @@
       <workItem from="1658754945767" duration="10060000" />
       <workItem from="1658824260230" duration="33000" />
       <workItem from="1658854013948" duration="346000" />
-      <workItem from="1658854847483" duration="2284000" />
+      <workItem from="1658854847483" duration="2544000" />
+      <workItem from="1658906935635" duration="14000" />
+      <workItem from="1659357028237" duration="1748000" />
     </task>
     <servers />
   </component>

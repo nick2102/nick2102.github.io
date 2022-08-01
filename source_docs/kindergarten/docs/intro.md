@@ -33,6 +33,20 @@ In the root directory run :
 npm install
 ```
 
+In the root of the project create `.env` file from the .env.example file with the following variables:
+
+```dotenv
+PORT=APP_PORT_HERE # Usually 3000
+
+POSTGRES_HOST=DB_HOST_HERE
+POSTGRES_PORT=DB_PORT_HERE # Usually 5432
+POSTGRES_USER=DB_USER_HERE
+POSTGRES_PASSWORD=DB_PASSWORD_HERE
+POSTGRES_DB=DB_NAME_HERE
+
+JWT_SECRET=SOME_RANDOM_LONG_STRING_HERE
+```
+
 To start the server in you terminal run :
 
 ```bash
