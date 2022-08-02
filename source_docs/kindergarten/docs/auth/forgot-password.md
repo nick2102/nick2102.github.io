@@ -32,6 +32,6 @@ This is resource for registering verification token for password reset.
 ### Response
 ```json
 {
-  "verificationToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE1IiwiaWF0IjoxNjU4ODg1NTM4LCJleHAiOjE2NTg4ODU1OTh9.TNGY3tMVgLZOFJIp0xOB-C2weYW54JPyhNnR1U1qPo0"
+  "message": "Reset password details were send your email address."
 }
 ```
