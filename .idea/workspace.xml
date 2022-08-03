@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="21000ced-3626-47b3-a98b-51fa8b5a337c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/forgot-password.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/forgot-password.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/signup.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/auth/signup.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,9 @@
       <workItem from="1658854847483" duration="2544000" />
       <workItem from="1658906935635" duration="14000" />
       <workItem from="1659357028237" duration="1912000" />
-      <workItem from="1659450159631" duration="149000" />
+      <workItem from="1659450159631" duration="761000" />
+      <workItem from="1659513460756" duration="7000" />
+      <workItem from="1659525567263" duration="48000" />
     </task>
     <servers />
   </component>
