@@ -73,6 +73,28 @@ While the server is up, run a migration command in the terminal:
 npm run migration:up
 ```
 
+**Using Stage API and AWS Database**
+
+Stage root endpoint:
+```bash
+https://kinder.labscreative.com
+```
+
+Stage database credentials:
+
+Note: IP Address should be whitelisted before connecting to client
+
+Note: Do not run migartions on stage DB
+
+```dotenv
+POSTGRES_HOST: kindergarten-1.cvn82sy5klca.eu-west-1.rds.amazonaws.com
+POSTGRES_PORT: 5432
+POSTGRES_USER: kinder
+POSTGRES_PASSWORD: #Kinder.123
+POSTGRES_DB: kindergarten
+```
+
+
 Optionally you can run the migration by calling the request in postman
 ```bash title="src\controllers\Migration\Migration.controller.ts"
 {baseUrl}/migrate/up

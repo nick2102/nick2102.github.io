@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21000ced-3626-47b3-a98b-51fa8b5a337c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/admin/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/admin/all-users.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/admin/create-user.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/admin/delete-user.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/admin/get-user-by-id.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/admin/update-user-profile.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/admin/update-user.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nikac/Projects/nick2102.github.io/source_docs/kindergarten/docs/admin",
+    "last_opened_file_path": "/Users/nikola/Projects/docs",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -71,10 +65,22 @@
       <workItem from="1659513460756" duration="7000" />
       <workItem from="1659525567263" duration="98000" />
       <workItem from="1659555232161" duration="3481000" />
+      <workItem from="1667413690012" duration="587000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
