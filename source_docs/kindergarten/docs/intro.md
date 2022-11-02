@@ -115,3 +115,8 @@ npm run migration:generate --name=nameOfMigration
 ```bash title="for rolling back the last migration"
 npm run migration:down
 ```
+
+## Mailtrap Credentials
+Email: ``hello@labscreative.com``
+
+Password: ``Pa$$w0rd``
