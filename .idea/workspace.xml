@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="21000ced-3626-47b3-a98b-51fa8b5a337c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/admin/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/admin/all-users.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/admin/create-user.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/admin/delete-user.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/admin/get-user-by-id.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/admin/update-user-profile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/admin/update-user.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/auth/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/auth/change-password.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/auth/forgot-password.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/auth/sign-in.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/auth/sign-out-all.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/auth/sign-out.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/auth/signup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/user/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/user/delete-account.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/user/edit-account.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/user/edit-profile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docs/user/profile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/docusaurus.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/sidebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/src/components/HomepageFeatures/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/src/components/HomepageFeatures/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/src/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/src/pages/index.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/src/pages/markdown-page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/static/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/static/img/docusaurus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/static/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/static/img/undraw_docusaurus_mountain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/static/img/undraw_docusaurus_react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source_docs/beautify/static/img/undraw_docusaurus_tree.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/source_docs/kindergarten/docs/intro.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +60,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/source_docs/beautify/package.json" />
+    <dismissed value="$PROJECT_DIR$/source_docs/kindergarten/package.json" />
+  </component>
   <component name="ProjectId" id="2CRACqKEzW3MlXPO2JBeWR0Ph9n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,15 +74,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nikola/Projects/docs&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nikola/Projects/nick2102.github.io/source_docs&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source_docs" />
       <recent name="C:\Users\Nikac\Projects\nick2102.github.io\source_docs\kindergarten\docs\admin" />
       <recent name="C:\Users\Nikac\Projects\nick2102.github.io\source_docs\kindergarten\docs\user" />
       <recent name="C:\Users\Nikac\Projects\nick2102.github.io\source_docs\kindergarten\docs\auth" />
@@ -67,6 +116,8 @@
       <workItem from="1659555232161" duration="3481000" />
       <workItem from="1667413690012" duration="587000" />
       <workItem from="1667416943257" duration="141000" />
+      <workItem from="1687952734972" duration="2589000" />
+      <workItem from="1687967401926" duration="66000" />
     </task>
     <servers />
   </component>
